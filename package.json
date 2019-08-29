@@ -1,0 +1,21 @@
+{
+    "name": "fx",
+    "displayName": "fx",
+    "description": "A VSCode theme inspired on Framer X",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.37.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "FX Light",
+                "uiTheme": "vs",
+                "path": "./themes/FX-Light-color-theme.json"
+            }
+        ]
+    }
+}

@@ -1,0 +1,5 @@
+.vscode/**
+.vscode-test/**
+themes/Theme-color-theme.json
+vsc-extension-quickstart.md
+
